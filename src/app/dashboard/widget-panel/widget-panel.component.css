@@ -1,0 +1,17 @@
+.app-widget-panel__container {
+  width: 300px;
+  height: 500px;
+  background: #999;
+}
+
+
+#widget,
+.app-widget-panel__widget-container {
+  height: 200px;
+}
+
+#widget {
+  border: 2px solid #333;
+  background: #125699;
+  cursor: move;
+}

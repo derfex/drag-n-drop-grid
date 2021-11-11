@@ -1,0 +1,9 @@
+.app-dashboard__container {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  grid-template-rows: 1fr;
+}
+
+.app-dashboard__gridster-preview-container {
+  padding-left: 50px;
+}
